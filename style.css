@@ -129,7 +129,14 @@ hr{
     cursor: pointer;
 }
 
-
+@media (max-width: 450px) {
+    .card {
+      width: 85%; 
+    }
+    body{
+        background-image:url(/assets/images/background-pattern-mobile.svg)
+    }
+  }
 
 
 
