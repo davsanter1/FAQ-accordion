@@ -95,13 +95,38 @@ hr{
     display: block;
     cursor: pointer;
 }
+/*For question 2 */
+#minus2{
+    display: none;
+    cursor: pointer;
+}
 
+#plus2{
+    display: block;
+    cursor: pointer;
+}
 
+/*For question 3 */
+#minus3{
+    display: none;
+    cursor: pointer;
+}
 
+#plus3{
+    display: block;
+    cursor: pointer;
+}
 
+/*For question 4 */
+#minus4{
+    display: none;
+    cursor: pointer;
+}
 
-
-
+#plus4{
+    display: block;
+    cursor: pointer;
+}
 
 
 
